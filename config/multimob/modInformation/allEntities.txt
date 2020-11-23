@@ -252,10 +252,6 @@ betterwithmods:bwm_fishing_hook
 betterwithmods:bwm_tentacle
 betterwithmods:bwm_jungle_spider
 arcanearchives:weight
-quark:flat_item_frame
-quark:leash_knot
-quark:colored_item_frame
-quark:glass_item_frame
 quark:chest_passenger
 quark:stoneling
 quark:archaeologist
@@ -265,6 +261,10 @@ quark:ashen
 quark:pirate
 quark:crab
 quark:wraith
+quark:flat_item_frame
+quark:leash_knot
+quark:colored_item_frame
+quark:glass_item_frame
 quark:pickarang
 quark:arrow_ender
 quark:arrow_explosive
@@ -313,6 +313,7 @@ endreborn:chronologist
 minecraftfuture:panda
 minecraftfuture:bee
 grapplemod:grapplemod
+immersivepetroleum:speedboat
 magma_monsters:magma_monster
 magma_monsters:magma_monster_grunt
 testdummy:dummy
@@ -359,6 +360,7 @@ rustic:chair
 scalinghealth:blightfire
 beneath:shadow
 beneath:hand
+industrialwires:broken_part
 twilightforest:wild_boar
 twilightforest:bighorn_sheep
 twilightforest:deer
@@ -713,6 +715,16 @@ aether_legacy:hammer_projectile
 aether_legacy:lightning_knife
 aether_legacy:parachute
 aether_legacy:whirlwind
+engineersdecor:chair_entity
+immersiveengineering:revolvershot
+immersiveengineering:skylinehook
+immersiveengineering:revolvershothoming
+immersiveengineering:revolvershotwolfpack
+immersiveengineering:chemthrowershot
+immersiveengineering:railgunshot
+immersiveengineering:revolvershotflare
+immersiveengineering:explosive
+immersiveengineering:fluorescenttube
 coroutil:bat_smart
 glaretorch:entitytorch
 livingenchantment:livingxporb

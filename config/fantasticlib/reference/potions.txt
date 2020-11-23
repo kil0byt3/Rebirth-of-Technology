@@ -36,6 +36,13 @@ rustic:magic_resistance
 rustic:wither_ward
 rustic:tipsy
 twilightforest:frosted
+immersiveengineering:flammable
+immersiveengineering:slippery
+immersiveengineering:conductive
+immersiveengineering:sticky
+immersiveengineering:stunned
+immersiveengineering:concretefeet
+immersiveengineering:flashed
 betterwithmods:true_sight
 betterwithmods:fortune
 betterwithmods:looting
@@ -221,3 +228,4 @@ wards:effect_poison_ailment
 wards:effect_poison_fade
 wards:effect_poison_feather
 hungeroverhaul:wellfed
+industrialwires:tinnitus
