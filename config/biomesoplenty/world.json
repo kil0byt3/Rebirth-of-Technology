@@ -3,7 +3,7 @@
     "tempScheme": "medium_zones",
     "rainScheme": "medium_zones",
     "biomeSize": "medium",
-    "amplitude": 1,
+    "amplitude": 2,
     "generateBopOre": false,
     "generateBopSoils": true,
     "generateBopTrees": true,
